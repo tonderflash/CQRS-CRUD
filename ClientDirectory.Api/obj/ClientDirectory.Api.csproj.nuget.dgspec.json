@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj",
+        "projectName": "ClientDirectory.Api",
+        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj",
+        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
+        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
+                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj"
+              },
+              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj": {
+                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj",
+        "projectName": "ClientDirectory.Application",
+        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj",
+        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
+        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj": {
+                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
+        "projectName": "ClientDirectory.Domain",
+        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
+        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
+        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj",
+        "projectName": "ClientDirectory.Infrastructure",
+        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj",
+        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
+        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
+                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
