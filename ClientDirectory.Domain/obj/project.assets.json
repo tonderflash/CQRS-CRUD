@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/gabrielgarcia/.nuget/packages/": {}
+    "C:\\Users\\ariel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj",
       "projectName": "ClientDirectory.Domain",
-      "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
-      "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
-      "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/obj/",
+      "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj",
+      "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

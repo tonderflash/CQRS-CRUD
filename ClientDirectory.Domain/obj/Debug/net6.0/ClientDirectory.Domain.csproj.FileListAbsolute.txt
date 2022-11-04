@@ -1,0 +1,12 @@
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\bin\Debug\net6.0\ClientDirectory.Domain.deps.json
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\bin\Debug\net6.0\ClientDirectory.Domain.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\bin\Debug\net6.0\ClientDirectory.Domain.pdb
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\refint\ClientDirectory.Domain.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ClientDirectory.Domain.pdb
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Domain\obj\Debug\net6.0\ref\ClientDirectory.Domain.dll

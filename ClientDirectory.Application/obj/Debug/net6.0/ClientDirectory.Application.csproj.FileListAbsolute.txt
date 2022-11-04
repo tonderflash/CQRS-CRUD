@@ -1,0 +1,15 @@
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\bin\Debug\net6.0\ClientDirectory.Application.deps.json
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\bin\Debug\net6.0\ClientDirectory.Application.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\bin\Debug\net6.0\ClientDirectory.Application.pdb
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\bin\Debug\net6.0\ClientDirectory.Domain.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\bin\Debug\net6.0\ClientDirectory.Domain.pdb
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.csproj.CopyComplete
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\refint\ClientDirectory.Application.dll
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ClientDirectory.Application.pdb
+C:\Users\ariel\OneDrive\Escritorio\Solvex Projects\Unit\CQRS-CRUD\ClientDirectory.Application\obj\Debug\net6.0\ref\ClientDirectory.Application.dll

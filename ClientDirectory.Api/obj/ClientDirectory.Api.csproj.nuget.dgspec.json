@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj": {}
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Api\\ClientDirectory.Api.csproj": {}
   },
   "projects": {
-    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj": {
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Api\\ClientDirectory.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Api\\ClientDirectory.Api.csproj",
         "projectName": "ClientDirectory.Api",
-        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/ClientDirectory.Api.csproj",
-        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
-        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Api/obj/",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Api\\ClientDirectory.Api.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
-                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj"
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj"
               },
-              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj": {
-                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj"
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\ClientDirectory.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\ClientDirectory.Infrastructure.csproj"
               }
             }
           }
@@ -79,34 +81,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj",
         "projectName": "ClientDirectory.Application",
-        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj",
-        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
-        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/obj/",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj": {
-                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj"
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj"
               }
             }
           }
@@ -166,26 +170,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj": {
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj",
         "projectName": "ClientDirectory.Domain",
-        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
-        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
-        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/obj/",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -219,34 +225,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj": {
+    "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\ClientDirectory.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\ClientDirectory.Infrastructure.csproj",
         "projectName": "ClientDirectory.Infrastructure",
-        "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/ClientDirectory.Infrastructure.csproj",
-        "packagesPath": "/Users/gabrielgarcia/.nuget/packages/",
-        "outputPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\ClientDirectory.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gabrielgarcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj": {
-                "projectPath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Application/ClientDirectory.Application.csproj"
+              "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj": {
+                "projectPath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Application\\ClientDirectory.Application.csproj"
               }
             }
           }
@@ -271,7 +279,7 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.5, )"
             },
@@ -298,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

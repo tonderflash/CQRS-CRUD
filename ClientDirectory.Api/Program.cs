@@ -11,7 +11,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ClientDirectoryDbContext>(options => options.UseSqlite(@"Data Source= ClientDirectory.db"));
+string myAppDbContextConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ClientDirectoryDbContext>(options => options.UseSqlServer(myAppDbContextConnection),
+    optionsLifetime: ServiceLifetime.Transient);
+
+//builder.Services.AddDbContext<ClientDirectoryDbContext>(options => options.UseSqlite(@"Data Source= ClientDirectory.db"));
 builder.Services.AddInfrastructure();
 builder.Services.AddApplication();
 

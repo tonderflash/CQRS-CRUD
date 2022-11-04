@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RjH9sCU8nm3AKncqAJxwDHSKYoMbVO9tb+1sCFP0USc=",
+  "Source": "ClientDirectory.Api",
+  "BasePath": "_content/ClientDirectory.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

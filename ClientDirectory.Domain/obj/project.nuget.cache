@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lAJkbdpqLGKK9ozk0qTiHsbI0yDqbccHoYRUlkP286lbsEVZAvbsNXjhpJHf2VNNaD0PzrTmY8ZuXCEWiPqpQQ==",
+  "dgSpecHash": "jZApxd9f9XeN1ZE0h2vXl6v9vsTZhD8eExX8HwUCImNWJpOLYUAjUqk6u+UBTxgd+CkZo4UnhEcx7+gBnJwasg==",
   "success": true,
-  "projectFilePath": "/Users/gabrielgarcia/Desktop/github projects/CQRS-CRUD/ClientDirectory.Domain/ClientDirectory.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ariel\\OneDrive\\Escritorio\\Solvex Projects\\Unit\\CQRS-CRUD\\ClientDirectory.Domain\\ClientDirectory.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
